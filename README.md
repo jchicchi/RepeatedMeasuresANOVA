@@ -1,5 +1,5 @@
 # RepeatedMeasuresANOVA
-Repeated Measures ANOVA using Pingouin package in Python
+Repeated Measures ANOVA using Pingouin package in Python.
 A repeated measures ANOVA is used to determine whether or not there is a statistically significant difference between the means of three or more groups
 in which you have the same subjects in each group.
 
